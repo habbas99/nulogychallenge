@@ -1,0 +1,19 @@
+{
+  "name": "Nulogy-test",
+  "version": "0.0.0",
+  "description": "Nulogy coding challenge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/habbas99/nulogychallenge.git"
+  },
+  "author": "Hassan Abbas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/habbas99/nulogychallenge/issues"
+  },
+  "homepage": "https://github.com/habbas99/nulogychallenge"
+}
