@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/habbas99/nulogychallenge/issues"
   },
-  "homepage": "https://github.com/habbas99/nulogychallenge"
+  "homepage": "https://github.com/habbas99/nulogychallenge",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
 }
