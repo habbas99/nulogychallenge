@@ -42,4 +42,7 @@ describe('Markup success cases', function() {
 
   	it('ALL OTHER TYPES markup on 100 should return 100', function() {
   	});
+
+  	it('FOOD & PHARMACEUTICAL markups on 100 should return 120.5', function() {
+  	});
 });
